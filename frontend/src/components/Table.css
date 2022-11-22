@@ -1,0 +1,17 @@
+.tableContainer {
+  margin: auto;
+}
+
+td {
+  color: #575757;
+  font-size: 14px;
+  padding: 3px 30px 3px 30px;
+  border-bottom: solid #575757;
+}
+
+th {
+  font-size: 17px;
+  padding: 3px 30px 3px 30px;
+  color: #d77a61;
+  border-bottom: solid #575757;
+}

@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.navBar {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 50px 0;
+}
+
+.navBarItem {
+  padding: 7px 60px 7px 60px;
+  text-decoration: none;
+  color: #d77a61;
+  font-size: 20px;
+}
+
+.navBarItem:hover {
+  font-weight: bold;
+}
